@@ -1,0 +1,16 @@
+<resources>
+    <!-- App title -->
+    <string name="app_name">DiceRoller</string>
+
+    <!-- Button label -->
+    <string name="roll_label">Roll</string>
+    <!-- string array for spinner number of dice  -->
+    <string-array name="dices_list">
+        <item>1 dice</item>
+        <item>2 dices</item>
+        <item>3 dices</item>
+        <item>4 dices</item>
+    </string-array>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dice">Dice</string>
+</resources>
